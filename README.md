@@ -10,3 +10,4 @@
 | 06  | [Scroll Animation](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Scroll%20Animation)           |
 | 07  | [Split Landing Page](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Split%20Landing%20Page)     |
 | 08  | [Form Wave Animation](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Form%20Wave%20Animation)   |
+| 08  | [Sound Board](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Sound%20Board)                     |
