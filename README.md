@@ -11,3 +11,4 @@
 | 07  | [Split Landing Page](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Split%20Landing%20Page)     |
 | 08  | [Form Wave Animation](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Form%20Wave%20Animation)   |
 | 08  | [Sound Board](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Sound%20Board)                     |
+| 08  | [Dad Jokes](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Dad%20Jokes)                         |
