@@ -12,3 +12,4 @@
 | 08  | [Form Wave Animation](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Form%20Wave%20Animation)   |
 | 08  | [Sound Board](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Sound%20Board)                     |
 | 08  | [Dad Jokes](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Dad%20Jokes)                         |
+| 09  | [Event Key Code](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Event%20Key%20Code)             |
