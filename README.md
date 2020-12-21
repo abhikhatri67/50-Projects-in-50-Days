@@ -15,3 +15,4 @@
 | 10  | [Event Key Code](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Event%20Key%20Code)             |
 | 11  | [FAQ](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/FAQ)                                       |
 | 12  | [Random Choice Picker](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Random%20Choice%20Picker) |
+| 13  | [Animation Navigation](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Animation%20Navigation)   |
