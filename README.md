@@ -16,3 +16,4 @@
 | 11  | [FAQ](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/FAQ)                                       |
 | 12  | [Random Choice Picker](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Random%20Choice%20Picker) |
 | 13  | [Animation Navigation](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Animation%20Navigation)   |
+| 13  | [Increment Counter](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Increment%20Counter)         |
