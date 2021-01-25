@@ -18,3 +18,4 @@
 | 13  | [Animation Navigation](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Animation%20Navigation)   |
 | 13  | [Increment Counter](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Increment%20Counter)         |
 | 14  | [Drink Water](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Drink%20Water)                     |
+| 15  | [Background Slider](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Background%20Slider)         |
