@@ -20,3 +20,4 @@
 | 14  | [Drink Water](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Drink%20Water)                     |
 | 15  | [Background Slider](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Background%20Slider)         |
 | 16  | [Github Profile Card](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Github%20Profile%20Card)   |
+| 17  | [Password Generator](https://github.com/abhikhatri67/50-Projects-in-50-Days/tree/main/Password%20Generator)       |
